@@ -18,6 +18,11 @@ insert fillertext
 You can give feedback on our [discord server](https://discord.com/invite/s8mYRHKXZw)  
 If you want to contribute, perform a pull request on any repository or message Canned Tuna#0033 on discord  
 
+# Repositories  
+
+Client: <https://github.com/Deeeep-Reef-Client/deeeep-reef-client>  
+Website: <https://github.com/Deeeep-Reef-Client/website>  
+
 # Resources  
 
 Website: <https://deeeep-reef-client.netlify.app>  
