@@ -4,14 +4,18 @@
 
 # What is DRC?  
 
-insert fillertext  
+Deeeep.io Reef Client is a project to create a minimalistic desktop client for v4 Deeeep.io  
 
 # Features  
 
+- Asset Swapper  
 - Custom Theme  
+- Theme Maker  
+- Light Theme  
 - Discord Rich Presence  
 - Built-in Docassets  
-- V3 UI (unfinished)  
+- Evolution Tree  
+- V3 UI  
 
 # Feedback and contributing  
 
